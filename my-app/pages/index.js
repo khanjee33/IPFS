@@ -180,7 +180,7 @@ useEffect(()=>{
           <img className={styles.image} src="./LW3Punks/1.png"/>
         </div>
       </div>
-      <footer className={styles.footer}>Made with &#10084; by LW3Punks</footer>
+      <footer className={styles.footer}>Made with &#10084; by LW3Punks!</footer>
     </div>
   );
 }
